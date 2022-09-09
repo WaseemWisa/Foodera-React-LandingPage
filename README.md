@@ -10,7 +10,7 @@
 * ReactJs
 * Scss
 
-# Clone Theme : [Live Preview]("https://waseemwisa.github.io/Foodera")
+# Clone Theme : [Live Preview](https://waseemwisa.github.io/Foodera)
 # Official Theme : [Live Preview]("https://bit.ly/3xegCKK")
 
 
