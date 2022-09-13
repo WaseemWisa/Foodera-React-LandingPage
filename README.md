@@ -1,7 +1,6 @@
 # CLone Foodear Landing Page
 
-## Conding by: [Waseem Wisa]("https://github.com/WaseemWisa") 
-##
+## Conding by: [Waseem Wisa]("https://github.com/WaseemWisa")
 
 # 
 
@@ -10,7 +9,7 @@
 * ReactJs
 * Scss
 
-# Clone Theme : [Live Preview](https://waseemwisa.github.io/Foodera)
+# Clone Theme : [Live Preview](https://waseemwisa.github.io/Foodera-React-LandingPage)
 # Official Theme : [Live Preview](https://bit.ly/3xegCKK)
 
 
